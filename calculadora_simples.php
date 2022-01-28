@@ -7,7 +7,7 @@
   $nome      = 15;
   $nome      = "macaco"; /* OR settype(variável, "type"), para a conversão; */
 
-  echo(gettype($nome)); // gettype(variável) exibe o tipo da variável;
+  //echo(gettype($nome)); // gettype(variável) exibe o tipo da variável;
   
   // Converte uma String para Upper Case;
   //echo(strtoupper($nome));
