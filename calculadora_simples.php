@@ -73,7 +73,7 @@
           Valor 1:<input type="text" name="txtn1" value="0" /><br />
           Valor 2:<input type="text" name="txtn2" value="0" /><br />
           <div id="container_opcoes">
-            <input type="radio" id="somar" name="rdocalc" value="somar" checked />
+            <input type="radio" id="somar" name="rdocalc" value="somar" />
             <label for="somar">Somar</label> 
             <br />
             <input type="radio" id="subtrair" name="rdocalc" value="subtrair" />
